@@ -1,0 +1,11 @@
+.section-dark {
+  background-color: rgb(33,37,41);
+  color: #ffffff;
+}
+
+.bright-btn {
+  border: none;
+  background: rgb(253,99,13);
+  color: #ffffff;
+}
+
