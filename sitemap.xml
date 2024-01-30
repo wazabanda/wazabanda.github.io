@@ -10,6 +10,12 @@
         <loc>https://wazabanda.tech/</loc>
     </url>
     <url>
+        <loc>https://wazabanda.tech/post.html</loc>
+    </url>
+    <url>
         <loc>https://wazabanda.tech/Projects.html</loc>
+    </url>
+    <url>
+        <loc>https://wazabanda.tech/Writeups.html</loc>
     </url>
 </urlset>
