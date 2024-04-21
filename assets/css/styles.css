@@ -9,3 +9,9 @@
   color: #ffffff;
 }
 
+body {
+  /*overflow: hidden;*/
+  font-family: 'Outfit';
+  background-color: rgb(33,37,41);
+}
+
